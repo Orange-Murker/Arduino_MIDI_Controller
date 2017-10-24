@@ -1,9 +1,10 @@
 # Arduino_MIDI_Controller
-
+Work demonstration: https://www.youtube.com/watch?v=YNWu8NeAdTI
 # Note
 * Use the appropriate sketch for the backlight and no backlight versions!
 * Use the included sketch to test the encoder and change the pinout(if necessarily)
-* Install all the libaries in the archive
+* Install all the libaries in the sketch folder
+* If you want to change pins, use only interrupt pins for 32u4 boards this pins are:	0,1,2,3,7
 
 
 # What you will need
